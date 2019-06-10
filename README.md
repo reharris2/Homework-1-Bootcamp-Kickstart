@@ -15,10 +15,10 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
       
       1. Each of the Parent Categories above have their successful and unsuccessful categories.
       
-         1. Most of the subcategories of the Music group are successful with the exception of jazz and faith music which are unsuccessful               at 100% and 67% failure rates, respectively.
+         1. Most of the subcategories of the Music group are successful with the exception of jazz and faith music which are                         unsuccessful at 100% and 67% failure rates, respectively.
       ![alt text](https://github.com/reharris2/Homework-1-Bootcamp-Kickstart/blob/master/musicSC.PNG)
       
-         1.  Plays are the only successful subcategory of the theater parent group with a 65.1%.  Musicals and spaces have under 50%                    probability of success.
+         1.  Plays are the only successful subcategory of the theater parent group with a 65.1% success rate.  Musicals and spaces have              under 50% probability of success.
       ![alt text](https://github.com/reharris2/Homework-1-Bootcamp-Kickstart/blob/master/musicSC.PNG)
       
          1. In the film & video category, it appears to be either sink or swim.  Documentaries, shorts, and television projects were                   successful at a 100% rate. While the other subcategory projects all failed or were cancelled.
@@ -27,3 +27,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
        1. Lastly, after analyzing the data, I conclude that projects that launch during mid-spring to early summer have a better chance           of success while those that launch the November and December have a higher probability of failure.  This may be due to                   conflicts in giving during the holiday season.
        ![alt text](https://github.com/reharris2/Homework-1-Bootcamp-Kickstart/blob/master/LaunchDate.PNG)
        
+    2.  What are some limitations of this dataset?
+    
+       1. The currencies of the goals and the pledges are different; therefore, comparing projects from different countries or                     currencies are not equivalent unless they are placed on equivalent currency basis.
