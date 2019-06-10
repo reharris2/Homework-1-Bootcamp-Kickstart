@@ -11,3 +11,8 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
   1. Given the provided data, what are three conclusions we can draw about Kickstarter campaign?
   
       1. After analyzing the data,  I found that there are three parent categories that experience a success rate of greater than 50%.  The          categories are:  Music (77.1%), Theater (60.2%), and Film & Video (57.7%).
+      ![alt text](https://github.com/reharris2/Homework-1-Bootcamp-Kickstart/blob/master/Capture.PNG)
+      
+      1. Each of the Parent Categories above have their successful and unsuccessful categories.
+      
+         1. Music
