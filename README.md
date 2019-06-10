@@ -19,4 +19,4 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
       ![alt text](https://github.com/reharris2/Homework-1-Bootcamp-Kickstart/blob/master/musicSC.PNG)
       
          1.  Plays are the only successful subcategory of the theater parent group with a 65.1%.  Musicals and spaces have under 50%                    probability of success.
-      ![alt text](https://github.com/reharris2/Homework-1-Bootcamp-Kickstart/blob/master/musicSC.PNG
+      ![alt text](https://github.com/reharris2/Homework-1-Bootcamp-Kickstart/blob/master/musicSC.PNG)
