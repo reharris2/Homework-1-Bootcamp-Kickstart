@@ -15,4 +15,4 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
       
       1. Each of the Parent Categories above have their successful and unsuccessful categories.
       
-         1. Music
+         1. Most of the subcategories of the Music group are successful with the exception of jazz and faith music which are unsuccessful               at 100% and 67% failure rates, respectively.
