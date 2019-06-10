@@ -27,6 +27,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
        1. Lastly, after analyzing the data, I conclude that projects that launch during mid-spring to early summer have a better chance           of success while those that launch the November and December have a higher probability of failure.  This may be due to                   conflicts in giving during the holiday season.
        ![alt text](https://github.com/reharris2/Homework-1-Bootcamp-Kickstart/blob/master/LaunchDate.PNG)
        
-    2.  What are some limitations of this dataset?
+1. What are some limitations of this dataset?
     
-       1. The currencies of the goals and the pledges are different; therefore, comparing projects from different countries or                     currencies are not equivalent unless they are placed on equivalent currency basis.
+      1. The currencies of the goals and the pledges are different; therefore, comparing projects from different countries or                     currencies are not equivalent unless they are placed on equivalent currency basis.
