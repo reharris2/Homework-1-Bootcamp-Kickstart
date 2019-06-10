@@ -32,3 +32,12 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
       1. The currencies of the goals and the pledges are different; therefore, comparing projects from different countries or                     currencies are not equivalent unless they are placed on equivalent currency basis.
       1. Approximately 693 of the 4,114 projects or 16.8% have goals of $100 or less.  I believe this inflates the number of successful          projects which may make the trends look better than they really are.
       1. Data on fundraising skills of each organization is not collected, so one of the reasons for project success could be a factor            that we are not accounting for.
+      
+1. What are some other possible tables and/or graphs that we could create?
+
+      1. A table comparing parent category and sub-categories against the goals would be helpful, so we analyze the data excluding all            projects under $100.
+      1. Tables by country would be helpful because the currencies would be equivalent then we could see if the same trends apply across          countries.
+      1. A column in the data that placed all currencies on USD basis.
+      1. Pie charts could have been used instead of bar charts to display the composition of successful parent/sub categories.
+      1. Scatter Plot graph along regression analysis could have been used to determine the factor that most correlated with successful          projects.
+
