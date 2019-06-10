@@ -24,6 +24,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
          1. In the film & video category, it appears to be either sink or swim.  Documentaries, shorts, and television projects were                   successful at a 100% rate. While the other subcategory projects all failed or were cancelled.
       ![alt text](https://github.com/reharris2/Homework-1-Bootcamp-Kickstart/blob/master/film1SC.PNG)
       
-       1. Lastly, after analyzing the data, I conclude that projects that launch during mid-spring to early summer have a better chance of           success while those that launch the November and December have a higher probability of failure.  This may be due to conflicts in           giving with the holiday season.
+       1. Lastly, after analyzing the data, I conclude that projects that launch during mid-spring to early summer have a better chance           of success while those that launch the November and December have a higher probability of failure.  This may be due to                   conflicts in giving during the holiday season.
        ![alt text](https://github.com/reharris2/Homework-1-Bootcamp-Kickstart/blob/master/LaunchDate.PNG)
        
